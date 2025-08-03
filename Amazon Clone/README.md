@@ -26,7 +26,9 @@ A fully responsive Amazon clone built using **HTML**, **CSS**, and **JavaScript*
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/6121ebdc-636a-467f-a71b-e89a689aa2ff" />
 
 🙌 Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
 📄 License
+
 This project is open source and available under the MIT License.
