@@ -1,8 +1,6 @@
-**Log on to codeastro.com for more projects!***
+**Database Name: hostelmsphp**
 
-**Database Name: hostelmsphp**
 
-**Developed by CodeAstro**
 
 **Recommended PHP Version 5.6, 7.4**
 
