@@ -13,7 +13,7 @@
         "admin",
         "dashboard"
     ],
-    "author": "Nirav joshi",
+    "author": "Aastha Kapupara",
     "license": "ISC",
     "devDependencies": {
         "gulp": "^4.0.2",
