@@ -13,7 +13,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Tell the browser to be responsive to screen width -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- By CodeAstro - codeastro.com -->
+   
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
@@ -83,7 +83,7 @@
                     </div>
                     
                 </div>
-                <!-- By CodeAstro - codeastro.com -->
+            
             </div>
             <!-- ============================================================== -->
             <!-- End Bread crumb and right sidebar toggle -->
@@ -112,7 +112,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- By CodeAstro - codeastro.com -->
+    
                     <div class="card border-right">
                         <div class="card-body">
                             <div class="d-flex d-lg-flex d-md-block align-items-center">
@@ -189,7 +189,7 @@
     <script src="../assets/libs/bootstrap/dist/js/bootstrap.min.js"></script>
     <!-- apps -->
     <!-- apps -->
-    <!-- By CodeAstro - codeastro.com -->
+   
     <script src="../dist/js/app-style-switcher.js"></script>
     <script src="../dist/js/feather.min.js"></script>
     <script src="../assets/libs/perfect-scrollbar/dist/perfect-scrollbar.jquery.min.js"></script>
@@ -203,5 +203,6 @@
     <script src="../assets/libs/chartist-plugin-tooltips/dist/chartist-plugin-tooltip.min.js"></script>
     <script src="../dist/js/pages/dashboards/dashboard1.min.js"></script>
 </body>
+
 
 </html>
